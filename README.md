@@ -12,6 +12,7 @@ Trench coats are cool. Everyone should own a trench coat. The *“Proper Trench 
 
 ## Requirements
 **First Part**
+
 This project has: 
 - a graphical user interface using the Qt framework
 - the interface design (location and size of GUI widgets, without attached functionalities), without using the Qt Designer
@@ -20,6 +21,7 @@ This project has:
 - functionality of the application: including the one-by-one iteration of objects for the user mode
 
 **Second Part**
+
 1. Multiple *undo* and *redo* functionality for the `add`, `remove`, and `update` operations. I implement this functionality using inheritance and polymorphism. I also
 have **Undo** and **Redo** buttons on the GUI, as well as a key combination to undo and redo the operations (e.g. `Ctrl+Z`, `Ctrl+Y`).
 
